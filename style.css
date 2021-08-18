@@ -1,0 +1,10 @@
+#home{
+  background-color:chocolate;
+    text-align: center;
+}
+.nav navbar-nav{
+    float: left;
+}
+#marqueeStyle{
+background-color: blue;
+}
